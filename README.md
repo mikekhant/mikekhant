@@ -2,6 +2,5 @@
 - 
 - 👋 Hi, I’m @mikekhant
 - 👀 I’m interested in startups, table tennis, Dota 2
-- 🌱 I’m currently learning JavaScript, Python
-- 💞️ I don't know what I’m looking to collaborate on yet.
-- 📫 How to reach me: mkhant@ucsd.edu, mikekhant9@gmail.com
+- 🌱 I’m experienced in Java and C++, and I've recently taken up Python.
+- 📫 How to reach me: mikekhant9@gmail.com
