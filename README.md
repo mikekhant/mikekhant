@@ -1,6 +1,6 @@
 - Mike's User Page
 - 
 - 👋 Hi, I’m @mikekhant
-- 👀 I’m interested in startups, table tennis, Dota 2
+- 👀 I’m interested in startups, table tennis, golf
 - 🌱 I’m experienced in Java and C++, and I've recently taken up Python.
 - 📫 How to reach me: mikekhant9@gmail.com
